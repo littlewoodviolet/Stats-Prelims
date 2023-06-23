@@ -1,0 +1,687 @@
+wellbeing,well,age,age3,stream,hours,work,composer,genre
+-1.8781159,0,16,Youngest,Spotify,9,Yes,No,Metal
+-1.4123672,0,16,Youngest,Other,3,Yes,Yes,Rock
+-1.389841,0,16,Youngest,Spotify,6,Yes,No,Pop
+-1.2893814,0,16,Youngest,Other,3,Yes,No,Classical
+-1.2829247,0,16,Youngest,Spotify,8,Yes,Yes,Rock
+-1.1888422,0,16,Youngest,Spotify,15,Yes,No,Other
+-0.93573666,0,16,Youngest,Spotify,10,Yes,No,Other
+-0.92868978,0,16,Youngest,Apple Music,2,No,No,Pop
+-0.89358139,0,16,Youngest,Spotify,3,Yes,No,Rock
+-0.87542582,0,16,Youngest,Spotify,6,Yes,No,Other
+-0.81259114,0,16,Youngest,Spotify,4,Yes,No,Pop
+-0.77584231,0,16,Youngest,Spotify,3,Yes,No,Other
+-0.7708841,0,16,Youngest,Spotify,5,Yes,Yes,Other
+-0.68597132,0,16,Youngest,Spotify,8,Yes,No,Other
+-0.61973673,0,16,Youngest,Apple Music,4,Yes,No,Other
+-0.55608571,1,16,Youngest,Spotify,4,Yes,No,Rock
+-0.48681414,1,16,Youngest,Spotify,7,Yes,No,Other
+-0.44932857,1,16,Youngest,Spotify,2,Yes,Yes,Rock
+-0.40324557,1,16,Youngest,Spotify,12,Yes,Yes,Other
+-0.28387377,1,16,Youngest,Spotify,3,No,No,Pop
+-0.26261204,1,16,Youngest,Spotify,2,Yes,No,Other
+-0.23890087,1,16,Youngest,Other,1,No,No,Other
+-0.19519255,1,16,Youngest,Spotify,5,Yes,Yes,Metal
+-0.16283919,1,16,Youngest,Spotify,3,No,No,Rock
+-0.034028798,1,16,Youngest,YouTube Music,3,Yes,No,Rock
+-0.029737737,1,16,Youngest,Spotify,2,Yes,No,Classical
+-0.008022588,1,16,Youngest,Spotify,3,Yes,No,Pop
+0.15772073,1,16,Youngest,Other,4,Yes,No,Other
+0.18187489,1,16,Youngest,Spotify,4,Yes,Yes,Other
+0.25322211,1,16,Youngest,Spotify,2,Yes,No,Other
+0.27951685,1,16,Youngest,Spotify,24,Yes,No,Rock
+0.38229665,1,16,Youngest,Spotify,4,Yes,No,Rock
+0.45956764,1,16,Youngest,Spotify,2.5,No,Yes,Metal
+0.66250801,1,16,Youngest,Spotify,0.5,No,No,Rock
+0.66828781,1,16,Youngest,Spotify,3,Yes,No,Other
+0.68799645,1,16,Youngest,Spotify,2,Yes,No,Other
+0.83921862,1,16,Youngest,Do not use,2,No,Yes,Other
+0.92686933,1,16,Youngest,Other,3,Yes,No,Pop
+0.9662866,1,16,Youngest,Spotify,3,Yes,No,Other
+1.34312,1,16,Youngest,Spotify,2.5,Yes,Yes,Rock
+1.4499568,1,16,Youngest,YouTube Music,3,Yes,Yes,Pop
+1.4737475,1,16,Youngest,Apple Music,2,Yes,No,Classical
+1.7199533,1,16,Youngest,Spotify,1,Yes,No,Classical
+1.7199533,1,16,Youngest,Spotify,10,No,Yes,Rock
+-1.4480909,0,17,Youngest,Spotify,3,Yes,No,Other
+-1.3236064,0,17,Youngest,Apple Music,5,Yes,No,Metal
+-1.1888422,0,17,Youngest,Apple Music,3,Yes,Yes,Pop
+-1.1159964,0,17,Youngest,Apple Music,2,Yes,No,Pop
+-1.0998473,0,17,Youngest,Spotify,4,Yes,No,Other
+-0.86602211,0,17,Youngest,Spotify,2,No,No,Other
+-0.83556563,0,17,Youngest,Apple Music,7,Yes,No,Rock
+-0.82910877,0,17,Youngest,Spotify,4,No,No,Classical
+-0.80792671,0,17,Youngest,Spotify,3,Yes,No,Rock
+-0.7905131,0,17,Youngest,Spotify,7,Yes,No,Other
+-0.77829176,0,17,Youngest,Spotify,2,Yes,Yes,Other
+-0.77599674,0,17,Youngest,Spotify,1.5,Yes,No,Rock
+-0.75939423,0,17,Youngest,Spotify,3,Yes,No,Metal
+-0.63944536,0,17,Youngest,Spotify,1,No,No,Metal
+-0.62795556,0,17,Youngest,Spotify,5,Yes,No,Other
+-0.61765063,0,17,Youngest,YouTube Music,2,No,Yes,Rock
+-0.56720173,1,17,Youngest,Spotify,5,Yes,No,Rock
+-0.53793013,1,17,Youngest,Spotify,2,Yes,No,Classical
+-0.41626331,1,17,Youngest,Spotify,2,Yes,No,Rock
+-0.40709367,1,17,Youngest,Spotify,3,Yes,No,Classical
+-0.40153804,1,17,Youngest,Spotify,1,Yes,No,Metal
+-0.31580371,1,17,Youngest,Spotify,2,Yes,No,Pop
+-0.21355699,1,17,Youngest,Spotify,1,Yes,No,Other
+-0.17754485,1,17,Youngest,Spotify,10,Yes,Yes,Other
+-0.14220975,1,17,Youngest,Spotify,2,Yes,No,Pop
+-0.13865018,1,17,Youngest,Spotify,5,Yes,No,Pop
+-0.11841895,1,17,Youngest,Spotify,2,Yes,No,Pop
+-0.097236879,1,17,Youngest,Spotify,2,No,No,Pop
+-0.080345862,1,17,Youngest,Spotify,4,No,No,Rock
+0.020870389,1,17,Youngest,Spotify,2,Yes,No,Other
+0.045691673,1,17,Youngest,Spotify,1.5,Yes,No,Classical
+0.053621944,1,17,Youngest,Spotify,24,Yes,No,Other
+0.072220474,1,17,Youngest,Apple Music,1,Yes,No,Pop
+0.091929108,1,17,Youngest,Do not use,1,Yes,Yes,Other
+0.091929108,1,17,Youngest,Spotify,2,Yes,No,Rock
+0.14712729,1,17,Youngest,YouTube Music,8,Yes,No,Pop
+0.18445842,1,17,Youngest,YouTube Music,3,Yes,No,Rock
+0.38214219,1,17,Youngest,Spotify,3,Yes,No,Rock
+0.39333305,1,17,Youngest,Spotify,2,Yes,Yes,Other
+0.39814669,1,17,Youngest,Other,0,No,No,Other
+0.42363513,1,17,Youngest,Spotify,4,Yes,No,Other
+0.439859,1,17,Youngest,Apple Music,3,Yes,No,Pop
+0.46238524,1,17,Youngest,Do not use,0.5,Yes,No,Other
+0.4772006,1,17,Youngest,Spotify,12,Yes,No,Other
+0.48209387,1,17,Youngest,Spotify,2,Yes,No,Pop
+0.52706677,1,17,Youngest,Spotify,2,Yes,No,Pop
+0.54055268,1,17,Youngest,Spotify,4,Yes,No,Other
+0.57203966,1,17,Youngest,Spotify,2,Yes,No,Pop
+0.81439728,1,17,Youngest,Spotify,2,Yes,No,Other
+0.82017708,1,17,Youngest,Spotify,2,Yes,No,Rock
+0.91849607,1,17,Youngest,Spotify,2,Yes,Yes,Other
+0.9662866,1,17,Youngest,Spotify,4,Yes,Yes,Metal
+0.9662866,1,17,Youngest,YouTube Music,6,Yes,No,Classical
+0.98599523,1,17,Youngest,Other,6,Yes,Yes,Other
+1.0787586,1,17,Youngest,Spotify,5,Yes,No,Metal
+1.1855954,1,17,Youngest,Other,3,Yes,No,Pop
+1.3364543,1,17,Youngest,Spotify,4,Yes,Yes,Other
+1.4078015,1,17,Youngest,Spotify,3,Yes,No,Pop
+1.7199533,1,17,Youngest,Apple Music,2,Yes,Yes,Other
+-1.6981447,0,18,Youngest,YouTube Music,10,Yes,No,Other
+-1.4889816,0,18,Youngest,Spotify,10,Yes,Yes,Rock
+-1.3026333,0,18,Youngest,Apple Music,18,Yes,No,Other
+-1.1572008,0,18,Youngest,Do not use,4,Yes,No,Other
+-1.1346745,0,18,Youngest,Spotify,5,Yes,No,Rock
+-1.1267443,0,18,Youngest,Spotify,5,Yes,Yes,Other
+-0.98234224,0,18,Youngest,Spotify,3,No,Yes,Metal
+-0.9707728,0,18,Youngest,Other,3,Yes,Yes,Metal
+-0.81430393,0,18,Youngest,Spotify,1,No,No,Rock
+-0.78674465,0,18,Youngest,Spotify,4,No,No,Other
+-0.74301112,0,18,Youngest,Spotify,6,Yes,No,Rock
+-0.69287115,0,18,Youngest,Spotify,1,Yes,No,Metal
+-0.67959416,0,18,Youngest,Spotify,3,Yes,No,Other
+-0.63188326,0,18,Youngest,Spotify,2,Yes,No,Other
+-0.62922007,0,18,Youngest,Spotify,3,Yes,No,Pop
+-0.61720765,0,18,Youngest,Spotify,4,No,No,Other
+-0.59729016,1,18,Youngest,Spotify,1,Yes,No,Pop
+-0.5577184,1,18,Youngest,Spotify,3,Yes,No,Other
+-0.55505526,1,18,Youngest,Spotify,5,Yes,Yes,Metal
+-0.55149567,1,18,Youngest,Spotify,2,Yes,No,Other
+-0.52415574,1,18,Youngest,Spotify,2,Yes,No,Other
+-0.46895757,1,18,Youngest,YouTube Music,1.5,Yes,No,Pop
+-0.4030115,1,18,Youngest,Apple Music,2,Yes,No,Other
+-0.40285704,1,18,Youngest,YouTube Music,2,No,No,Other
+-0.35010833,1,18,Youngest,Spotify,5,Yes,No,Other
+-0.34974021,1,18,Youngest,Spotify,3,Yes,No,Other
+-0.31988591,1,18,Youngest,Do not use,2,Yes,No,Metal
+-0.309138,1,18,Youngest,Spotify,2,Yes,Yes,Rock
+-0.30387089,1,18,Youngest,Spotify,4,Yes,No,Other
+-0.28232068,1,18,Youngest,YouTube Music,4,No,No,Other
+-0.27668545,1,18,Youngest,Apple Music,5,Yes,No,Other
+-0.27491301,1,18,Youngest,Spotify,1,Yes,Yes,Rock
+-0.21763916,1,18,Youngest,Spotify,5,Yes,No,Rock
+-0.17548391,1,18,Youngest,Apple Music,2,Yes,No,Pop
+-0.13146187,1,18,Youngest,Spotify,6,Yes,No,Other
+-0.11354038,1,18,Youngest,YouTube Music,3,Yes,No,Other
+-0.088042051,1,18,Youngest,Spotify,2,No,No,Pop
+-0.073968664,1,18,Youngest,Spotify,4,Yes,Yes,Pop
+-0.010317615,1,18,Youngest,Spotify,2,Yes,No,Other
+0.004487257,1,18,Youngest,Spotify,4,Yes,No,Other
+0.010122499,1,18,Youngest,Spotify,2,No,No,Rock
+0.024195891,1,18,Youngest,YouTube Music,6,Yes,No,Other
+0.052068874,1,18,Youngest,Spotify,4,Yes,No,Other
+0.069402859,1,18,Youngest,Spotify,2,Yes,No,Other
+0.078886196,1,18,Youngest,Spotify,2,No,No,Rock
+0.079473697,1,18,Youngest,YouTube Music,12,Yes,No,Other
+0.088588893,1,18,Youngest,Spotify,2,Yes,No,Pop
+0.10244292,1,18,Youngest,Spotify,3,Yes,No,Other
+0.13674754,1,18,Youngest,Spotify,2,Yes,Yes,Pop
+0.15637656,1,18,Youngest,Do not use,1,Yes,Yes,Other
+0.17320265,1,18,Youngest,Spotify,3,Yes,No,Rock
+0.20031896,1,18,Youngest,Spotify,2,No,No,Other
+0.22951093,1,18,Youngest,Apple Music,2,Yes,No,Pop
+0.26611057,1,18,Youngest,Spotify,1.5,No,No,Other
+0.32464898,1,18,Youngest,Spotify,2,Yes,No,Other
+0.40355834,1,18,Youngest,Spotify,16,Yes,Yes,Other
+0.40895951,1,18,Youngest,Spotify,2,No,Yes,Metal
+0.47416362,1,18,Youngest,YouTube Music,3,Yes,No,Pop
+0.5326224,1,18,Youngest,Spotify,3,Yes,No,Other
+0.54121977,1,18,Youngest,YouTube Music,4,Yes,No,Other
+0.54158312,1,18,Youngest,Spotify,6,Yes,Yes,Rock
+0.54337025,1,18,Youngest,Spotify,4,Yes,No,Other
+0.55514866,1,18,Youngest,YouTube Music,1,Yes,Yes,Pop
+0.65413475,1,18,Youngest,YouTube Music,0.5,No,No,Rock
+0.66562462,1,18,Youngest,Spotify,1,Yes,No,Pop
+0.67658138,1,18,Youngest,Spotify,1,No,No,Other
+0.79468864,1,18,Youngest,Do not use,1,No,No,Classical
+0.80728865,1,18,Youngest,Spotify,2,Yes,No,Other
+0.83358335,1,18,Youngest,Do not use,1,Yes,No,Other
+0.88263839,1,18,Youngest,Spotify,4,Yes,No,Other
+0.91183037,1,18,Youngest,YouTube Music,6,Yes,Yes,Pop
+0.92686933,1,18,Youngest,Spotify,2,Yes,No,Other
+0.92864174,1,18,Youngest,Spotify,4,Yes,No,Metal
+0.97139925,1,18,Youngest,Spotify,5,Yes,No,Pop
+0.97932953,1,18,Youngest,Apple Music,2,Yes,No,Other
+1.0057038,1,18,Youngest,Spotify,2,Yes,No,Other
+1.0322326,1,18,Youngest,Spotify,7,Yes,No,Other
+1.0388983,1,18,Youngest,Spotify,1,No,No,Pop
+1.0692753,1,18,Youngest,Spotify,8,Yes,Yes,Other
+1.1296657,1,18,Youngest,Spotify,6,Yes,No,Other
+1.1577476,1,18,Youngest,Do not use,1,Yes,No,Classical
+1.2530946,1,18,Youngest,Apple Music,1,No,No,Other
+1.2559122,1,18,Youngest,Spotify,3,Yes,Yes,Other
+1.4555919,1,18,Youngest,Spotify,4,Yes,No,Other
+1.4950092,1,18,Youngest,Other,2,Yes,No,Other
+-1.2681197,0,19,Youngest,Spotify,5,Yes,No,Rock
+-1.0257621,0,19,Youngest,Spotify,3,Yes,No,Rock
+-0.97412348,0,19,Youngest,Spotify,5,No,No,Rock
+-0.86438942,0,19,Youngest,Spotify,3,Yes,Yes,Rock
+-0.75473505,0,19,Youngest,Spotify,3,Yes,No,Other
+-0.68315375,0,19,Youngest,Spotify,6,Yes,No,Metal
+-0.66752726,0,19,Youngest,YouTube Music,4,Yes,No,Pop
+-0.65841204,0,19,Youngest,Spotify,5,Yes,No,Other
+-0.56912863,1,19,Youngest,Spotify,5,Yes,No,Pop
+-0.51289999,1,19,Youngest,Spotify,8,Yes,No,Other
+-0.4848181,1,19,Youngest,Spotify,5,Yes,No,Metal
+-0.47051063,1,19,Youngest,Apple Music,8,Yes,Yes,Other
+-0.43767947,1,19,Youngest,Spotify,2,Yes,No,Pop
+-0.43620601,1,19,Youngest,Do not use,5,Yes,No,Other
+-0.39479271,1,19,Youngest,YouTube Music,3,Yes,No,Rock
+-0.38915747,1,19,Youngest,Spotify,5,Yes,No,Other
+-0.34700221,1,19,Youngest,Spotify,4,No,No,Pop
+-0.28795594,1,19,Youngest,Spotify,6,Yes,No,Pop
+-0.27720803,1,19,Youngest,Spotify,2,Yes,No,Other
+-0.24016543,1,19,Youngest,Do not use,1,Yes,No,Other
+-0.15014003,1,19,Youngest,Apple Music,3,No,No,Classical
+-0.14887547,1,19,Youngest,Spotify,3,Yes,No,Other
+-0.14732242,1,19,Youngest,Spotify,4,Yes,No,Pop
+-0.1182645,1,19,Youngest,Spotify,4,Yes,No,Pop
+-0.063300394,1,19,Youngest,Apple Music,3,Yes,No,Rock
+-0.028473182,1,19,Youngest,Spotify,3,Yes,No,Pop
+0.007384504,1,19,Youngest,Do not use,7,Yes,No,Rock
+0.012651608,1,19,Youngest,YouTube Music,4,Yes,No,Other
+0.045691673,1,19,Youngest,Spotify,1,Yes,No,Pop
+0.11319081,1,19,Youngest,Spotify,2,Yes,No,Pop
+0.14483227,1,19,Youngest,Spotify,8,Yes,No,Pop
+0.15276253,1,19,Youngest,Spotify,2,Yes,No,Other
+0.20440114,1,19,Youngest,Spotify,10,Yes,No,Other
+0.2520372,1,19,Youngest,Other,6,Yes,No,Pop
+0.28567466,1,19,Youngest,YouTube Music,1,No,No,Other
+0.29263937,1,19,Youngest,Spotify,2,Yes,No,Classical
+0.29827464,1,19,Youngest,Spotify,1,No,Yes,Metal
+0.30449736,1,19,Youngest,Spotify,3,Yes,No,Other
+0.4500843,1,19,Youngest,Spotify,3,Yes,No,Other
+0.54959303,1,19,Youngest,Spotify,3,Yes,No,Other
+0.66154248,1,19,Youngest,Spotify,5,Yes,Yes,Metal
+0.71873665,1,19,Youngest,Spotify,3,Yes,No,Rock
+0.72437191,1,19,Youngest,Spotify,3,Yes,No,Other
+0.77171946,1,19,Youngest,Spotify,5,Yes,No,Other
+0.79935837,1,19,Youngest,Spotify,3,Yes,No,Classical
+0.8538146,1,19,Youngest,Spotify,8,Yes,No,Other
+0.87323469,1,19,Youngest,Spotify,5,Yes,No,Rock
+0.92360872,1,19,Youngest,Spotify,5,Yes,No,Classical
+0.95169061,1,19,Youngest,Spotify,4,Yes,No,Metal
+0.9662866,1,19,Youngest,Spotify,6,Yes,No,Rock
+0.9765119,1,19,Youngest,Other,6,Yes,Yes,Other
+0.98599523,1,19,Youngest,YouTube Music,3,No,No,Other
+1.090094,1,19,Youngest,YouTube Music,5,Yes,No,Metal
+1.1071395,1,19,Youngest,Other,5,Yes,No,Other
+1.1615957,1,19,Youngest,Spotify,3,Yes,No,Pop
+1.2081217,1,19,Youngest,Spotify,2,Yes,No,Other
+1.3234113,1,19,Youngest,Spotify,3,Yes,No,Other
+1.4555919,1,19,Youngest,Spotify,6,Yes,No,Rock
+1.5282037,1,19,Youngest,YouTube Music,8,Yes,No,Other
+1.5877726,1,19,Youngest,Spotify,6,Yes,Yes,Metal
+1.7199533,1,19,Youngest,Do not use,0,No,No,Classical
+-1.3777741,0,20,Youngest,Spotify,3,No,No,Rock
+-1.0963674,0,20,Youngest,YouTube Music,1,Yes,No,Pop
+-1.0525794,0,20,Youngest,YouTube Music,1,Yes,No,Pop
+-1.0114546,0,20,Youngest,Spotify,2,Yes,No,Other
+-0.99301052,0,20,Youngest,Do not use,0.5,No,No,Metal
+-0.95573384,0,20,Youngest,Spotify,5,Yes,Yes,Other
+-0.83786064,0,20,Youngest,Spotify,3,No,Yes,Other
+-0.79689032,0,20,Youngest,Apple Music,4,Yes,No,Other
+-0.78258282,0,20,Youngest,Apple Music,8,Yes,Yes,Other
+-0.69005352,0,20,Youngest,Spotify,2,Yes,No,Rock
+-0.59173453,1,20,Youngest,Spotify,1,No,No,Rock
+-0.59091294,1,20,Youngest,Spotify,8,Yes,No,Other
+-0.46502984,1,20,Youngest,Apple Music,12,No,No,Rock
+-0.41776192,1,20,Youngest,Spotify,1,No,No,Other
+-0.3580386,1,20,Youngest,Spotify,2,Yes,No,Pop
+-0.32766172,1,20,Youngest,Spotify,4,Yes,No,Other
+-0.27491301,1,20,Youngest,Other,0.69999999,No,No,Rock
+-0.25186417,1,20,Youngest,Spotify,1,Yes,No,Other
+-0.22815298,1,20,Youngest,Spotify,3,No,No,Other
+-0.21355699,1,20,Youngest,Spotify,3,Yes,No,Rock
+-0.20074816,1,20,Youngest,Do not use,4,Yes,No,Rock
+-0.16858411,1,20,Youngest,Do not use,1.5,No,Yes,Other
+-0.1276934,1,20,Youngest,Apple Music,3,Yes,No,Metal
+-0.12761378,1,20,Youngest,Apple Music,5,Yes,No,Rock
+-0.12005164,1,20,Youngest,Do not use,2,Yes,No,Rock
+-0.013877197,1,20,Youngest,Spotify,2,Yes,Yes,Other
+0.13956515,1,20,Youngest,Spotify,3,Yes,No,Rock
+0.40919358,1,20,Youngest,YouTube Music,4,Yes,No,Metal
+0.50735813,1,20,Youngest,Spotify,2,Yes,No,Pop
+0.50735813,1,20,Youngest,YouTube Music,8,Yes,No,Rock
+0.55855376,1,20,Youngest,YouTube Music,1,No,No,Pop
+0.58945328,1,20,Youngest,Apple Music,2,Yes,No,Pop
+0.6735549,1,20,Youngest,Spotify,4,Yes,No,Other
+0.89596981,1,20,Youngest,Spotify,1,Yes,No,Pop
+0.91004324,1,20,Youngest,Spotify,3,No,Yes,Other
+0.91567844,1,20,Youngest,YouTube Music,3,Yes,Yes,Classical
+1.0112594,1,20,Youngest,Spotify,6,Yes,No,Other
+1.2306479,1,20,Youngest,Other,2,Yes,Yes,Rock
+1.4354403,1,20,Youngest,Spotify,1.5,Yes,No,Other
+1.6603844,1,20,Youngest,Spotify,2,No,Yes,Metal
+-1.4810513,0,21,Mid,YouTube Music,2,Yes,No,Other
+-1.3939232,0,21,Mid,,5,Yes,No,Other
+-1.0402784,0,21,Mid,Spotify,2,Yes,No,Rock
+-1.0273151,0,21,Mid,Spotify,3,No,No,Other
+-1.0170102,0,21,Mid,Spotify,12,Yes,No,Rock
+-1.0063419,0,21,Mid,Spotify,10,Yes,No,Rock
+-0.89231688,0,21,Mid,Do not use,10,Yes,No,Pop
+-0.87253338,0,21,Mid,YouTube Music,3,Yes,Yes,Metal
+-0.84852892,0,21,Mid,Spotify,10,Yes,No,Metal
+-0.83556563,0,21,Mid,Apple Music,5,Yes,No,Metal
+-0.81667858,0,21,Mid,Spotify,4,Yes,No,Metal
+-0.79689032,0,21,Mid,Do not use,3,Yes,No,Rock
+-0.71953398,0,21,Mid,Spotify,8,Yes,No,Other
+-0.61847222,0,21,Mid,Spotify,3,Yes,No,Other
+-0.50755322,1,21,Mid,Spotify,2,Yes,No,Other
+-0.4899852,1,21,Mid,Do not use,0.5,No,No,Pop
+-0.48473847,1,21,Mid,Spotify,3,Yes,No,Rock
+-0.4828116,1,21,Mid,YouTube Music,2,Yes,No,Pop
+-0.46237147,1,21,Mid,YouTube Music,2,Yes,No,Metal
+-0.4397656,1,21,Mid,Do not use,2,Yes,No,Rock
+-0.40419641,1,21,Mid,Spotify,1,Yes,No,Rock
+-0.3779017,1,21,Mid,Spotify,3,Yes,No,Pop
+-0.34515014,1,21,Mid,Spotify,1,No,No,Pop
+-0.15169309,1,21,Mid,Spotify,3,Yes,No,Other
+-0.11976313,1,21,Mid,Spotify,4,Yes,No,Rock
+-0.098267347,1,21,Mid,Spotify,5,Yes,Yes,Other
+-0.092044599,1,21,Mid,Spotify,4,Yes,No,Pop
+-0.056555055,1,21,Mid,Spotify,2,No,No,Pop
+-0.029737737,1,21,Mid,Other,0.1,Yes,No,Other
+-0.022250434,1,21,Mid,YouTube Music,4,Yes,No,Rock
+-0.020776995,1,21,Mid,Spotify,11,Yes,Yes,Metal
+0.075625606,1,21,Mid,Spotify,4,Yes,Yes,Pop
+0.15305105,1,21,Mid,Spotify,1,Yes,No,Other
+0.19602789,1,21,Mid,Spotify,1,,,Other
+0.20543161,1,21,Mid,Spotify,1,Yes,No,Other
+0.28597367,1,21,Mid,Apple Music,1,No,No,Other
+0.34295899,1,21,Mid,Apple Music,1,Yes,No,Rock
+0.3645092,1,21,Mid,YouTube Music,1,No,No,Rock
+0.39206848,1,21,Mid,YouTube Music,0.5,Yes,No,Pop
+0.51350123,1,21,Mid,Spotify,3,Yes,Yes,Metal
+0.51639849,1,21,Mid,Spotify,1.5,Yes,No,Classical
+0.52233273,1,21,Mid,Spotify,3,Yes,No,Other
+0.53610712,1,21,Mid,Spotify,2,Yes,No,Metal
+0.56692702,1,21,Mid,Do not use,0.5,No,No,Pop
+0.80684566,1,21,Mid,Spotify,1,Yes,No,Other
+0.89294332,1,21,Mid,Spotify,2,Yes,No,Metal
+0.91849607,1,21,Mid,Apple Music,1.5,Yes,No,Other
+0.94657797,1,21,Mid,Spotify,1,Yes,No,Pop
+1.0255669,1,21,Mid,Do not use,1,Yes,No,Classical
+1.188413,1,21,Mid,Spotify,1,No,No,Other
+1.2306479,1,21,Mid,YouTube Music,2,Yes,No,Other
+1.3234113,1,21,Mid,Spotify,1,No,No,Other
+-1.6081194,0,22,Mid,Spotify,3,Yes,No,Other
+-1.4163698,0,22,Mid,Spotify,4,Yes,No,Other
+-1.3330101,0,22,Mid,Spotify,3,Yes,No,Rock
+-1.2865638,0,22,Mid,YouTube Music,8,Yes,No,Metal
+-1.0751057,0,22,Mid,Other,6,Yes,No,Other
+-0.99657011,0,22,Mid,Spotify,3,Yes,Yes,Rock
+-0.91225958,0,22,Mid,Apple Music,7,Yes,No,Pop
+-0.89742953,0,22,Mid,Spotify,4,Yes,No,Rock
+-0.88875729,0,22,Mid,Spotify,3,Yes,No,Other
+-0.77599674,0,22,Mid,Spotify,6,Yes,No,Other
+-0.77576268,0,22,Mid,Spotify,2,No,No,Rock
+-0.76933104,0,22,Mid,Spotify,6,Yes,No,Other
+-0.71131521,0,22,Mid,YouTube Music,2,Yes,No,Pop
+-0.6489287,0,22,Mid,YouTube Music,4,Yes,No,Other
+-0.6330682,0,22,Mid,Do not use,4,No,Yes,Pop
+-0.57349932,1,22,Mid,Spotify,4,Yes,Yes,Rock
+-0.50215209,1,22,Mid,Spotify,2,Yes,No,Other
+-0.50191802,1,22,Mid,Spotify,10,Yes,No,Metal
+-0.4226405,1,22,Mid,Other,1,No,No,Rock
+-0.28795594,1,22,Mid,Spotify,3,Yes,No,Other
+-0.24727412,1,22,Mid,Spotify,10,No,Yes,Other
+-0.052184366,1,22,Mid,Apple Music,0.5,No,No,Other
+-0.01232413,1,22,Mid,Spotify,2,Yes,No,Rock
+0.037318435,1,22,Mid,Spotify,6,Yes,No,Other
+0.11548584,1,22,Mid,YouTube Music,6,Yes,No,Other
+0.1675674,1,22,Mid,YouTube Music,3,No,No,Classical
+0.3307921,1,22,Mid,Spotify,1,No,Yes,Other
+0.34480056,1,22,Mid,Spotify,1,Yes,No,Pop
+0.39726076,1,22,Mid,Do not use,2,Yes,No,Other
+0.41741237,1,22,Mid,Spotify,2,Yes,Yes,Other
+0.47416362,1,22,Mid,Spotify,3,Yes,Yes,Other
+0.48165092,1,22,Mid,Spotify,2,Yes,Yes,Pop
+0.50224549,1,22,Mid,Spotify,2,Yes,No,Pop
+0.52151114,1,22,Mid,Spotify,1,Yes,No,Other
+0.56901312,1,22,Mid,YouTube Music,1,Yes,No,Other
+0.72163391,1,22,Mid,Do not use,2,Yes,No,Other
+0.97932953,1,22,Mid,Do not use,2,No,Yes,Metal
+1.1457351,1,22,Mid,Spotify,2,No,No,Other
+1.5282037,1,22,Mid,Spotify,5,Yes,No,Other
+-1.1766208,0,23,Mid,Spotify,4,Yes,No,Other
+-1.0748715,0,23,Mid,Apple Music,1,No,No,Other
+-1.0645919,0,23,Mid,Spotify,5,Yes,No,Other
+-1.0403581,0,23,Mid,Spotify,2,Yes,No,Other
+-0.98484617,0,23,Mid,Spotify,3,Yes,No,Rock
+-0.73220879,0,23,Mid,YouTube Music,4,No,No,Other
+-0.69545466,0,23,Mid,Spotify,0.5,No,Yes,Other
+-0.65048182,0,23,Mid,Spotify,4,Yes,No,Other
+-0.6489287,0,23,Mid,Spotify,2,Yes,No,Classical
+-0.62922007,0,23,Mid,Spotify,4,Yes,No,Metal
+-0.57476389,1,23,Mid,Do not use,10,Yes,No,Other
+-0.53495806,1,23,Mid,Spotify,2,No,No,Other
+-0.52238333,1,23,Mid,Spotify,2,No,No,Rock
+-0.51703656,1,23,Mid,Do not use,6,Yes,Yes,Classical
+-0.50215209,1,23,Mid,Spotify,2,No,No,Rock
+-0.45154396,1,23,Mid,Spotify,1,Yes,No,Other
+-0.36204115,1,23,Mid,Spotify,2,Yes,Yes,Rock
+-0.32884663,1,23,Mid,Spotify,2,Yes,No,Pop
+-0.31809875,1,23,Mid,Spotify,1,Yes,No,Rock
+-0.30350277,1,23,Mid,Spotify,5,Yes,No,Other
+-0.29921171,1,23,Mid,Do not use,3,Yes,No,Rock
+-0.27994603,1,23,Mid,Spotify,5,Yes,Yes,Metal
+-0.26927778,1,23,Mid,Apple Music,3,No,No,Rock
+-0.17466232,1,23,Mid,Spotify,6,Yes,No,Other
+-0.099232912,1,23,Mid,Spotify,12,Yes,No,Pop
+0.036128711,1,23,Mid,Other,4.5,Yes,No,Rock
+0.14356771,1,23,Mid,Spotify,2,No,No,Metal
+0.16327634,1,23,Mid,Spotify,7,Yes,No,Other
+0.19869107,1,23,Mid,YouTube Music,3,Yes,No,Other
+0.51655298,1,23,Mid,Do not use,2,Yes,No,Pop
+0.52551371,1,23,Mid,YouTube Music,2,Yes,Yes,Other
+0.5298844,1,23,Mid,Spotify,2,Yes,No,Metal
+0.65895891,1,23,Mid,Other,6,Yes,No,Other
+0.67555094,1,23,Mid,Do not use,1,Yes,No,Other
+0.68509918,1,23,Mid,Spotify,2,Yes,No,Rock
+1.5202734,1,23,Mid,Spotify,1,No,Yes,Rock
+1.7199533,1,23,Mid,Do not use,10,Yes,Yes,Metal
+-1.8622553,0,24,Mid,Spotify,7,Yes,No,Other
+-1.6756185,0,24,Mid,YouTube Music,1,Yes,No,Other
+-1.1267443,0,24,Mid,Spotify,4,Yes,No,Metal
+-0.91225958,0,24,Mid,Spotify,6,Yes,Yes,Rock
+-0.89255095,0,24,Mid,Spotify,10,Yes,No,Rock
+-0.80658251,0,24,Mid,Do not use,12,Yes,Yes,Rock
+-0.59320796,1,24,Mid,Spotify,3,Yes,No,Rock
+-0.53956282,1,24,Mid,Do not use,8,Yes,Yes,Other
+-0.44901484,1,24,Mid,Spotify,6,Yes,No,Other
+-0.43212384,1,24,Mid,Spotify,2,Yes,No,Metal
+-0.30787346,1,24,Mid,Spotify,2,Yes,No,Pop
+-0.2715728,1,24,Mid,Spotify,3,Yes,No,Classical
+-0.23089097,1,24,Mid,Apple Music,2,Yes,No,Rock
+0.000196194,1,24,Mid,Spotify,4,Yes,No,Classical
+0.004566882,1,24,Mid,YouTube Music,6,Yes,No,Classical
+0.13948554,1,24,Mid,Spotify,1,No,No,Metal
+0.74645519,1,24,Mid,Other,1.5,Yes,No,Other
+0.96065134,1,24,Mid,Spotify,8,Yes,No,Other
+1.0309681,1,24,Mid,YouTube Music,1,No,No,Other
+1.1799601,1,24,Mid,Spotify,3,No,No,Rock
+-1.4230355,0,25,Mid,Do not use,1,No,No,Pop
+-1.2154255,0,25,Mid,Spotify,3,Yes,No,Rock
+-1.1331215,0,25,Mid,YouTube Music,2,Yes,No,Metal
+-1.0257621,0,25,Mid,Do not use,4,Yes,No,Pop
+-0.89358139,0,25,Mid,Spotify,3,Yes,No,Metal
+-0.62922007,0,25,Mid,Spotify,2,Yes,No,Other
+-0.5154835,1,25,Mid,Spotify,1,Yes,No,Pop
+-0.45591465,1,25,Mid,Apple Music,2.5,Yes,No,Other
+-0.34700221,1,25,Mid,Spotify,3,Yes,No,Rock
+-0.33011121,1,25,Mid,Spotify,2,No,No,Pop
+-0.3193633,1,25,Mid,Spotify,5,Yes,No,Rock
+-0.24504399,1,25,Mid,Apple Music,2,No,No,Other
+0.17320265,1,25,Mid,Spotify,0.5,Yes,No,Rock
+0.23462358,1,25,Mid,Spotify,2,No,No,Metal
+0.24537148,1,25,Mid,Spotify,1.5,Yes,No,Pop
+0.37006482,1,25,Mid,YouTube Music,5,No,No,Metal
+0.38029012,1,25,Mid,Spotify,4,Yes,No,Rock
+0.40948209,1,25,Mid,Spotify,2,Yes,Yes,Other
+0.82017708,1,25,Mid,Spotify,1,Yes,No,Other
+1.2132343,1,25,Mid,Do not use,0.5,No,No,Classical
+1.3234113,1,25,Mid,Spotify,4,No,No,Other
+1.3880929,1,25,Mid,Spotify,7,Yes,Yes,Pop
+-1.6306456,0,26,Mid,Spotify,5,Yes,No,Metal
+-1.3857044,0,26,Mid,Spotify,6,Yes,No,Other
+-1.1134129,0,26,Mid,Spotify,8,No,No,Rock
+-1.0007067,0,26,Mid,Spotify,1,No,No,Rock
+-0.85548311,0,26,Mid,Spotify,4,Yes,No,Pop
+-0.77599674,0,26,Mid,Other,4,Yes,No,Pop
+-0.60566336,0,26,Mid,Spotify,14,Yes,No,Other
+-0.4397656,1,26,Mid,Spotify,3,Yes,No,Other
+-0.43694797,1,26,Mid,Other,0.5,No,No,Rock
+-0.17266628,1,26,Mid,Spotify,2,Yes,No,Rock
+-0.00106836,1,26,Mid,Spotify,5,Yes,No,Other
+0.027093137,1,26,Mid,Spotify,3,Yes,Yes,Other
+0.2487766,1,26,Mid,Spotify,5,Yes,No,Rock
+0.46238524,1,26,Mid,Spotify,2,Yes,Yes,Other
+0.47698122,1,26,Mid,Do not use,1,No,No,Pop
+0.57536513,1,26,Mid,Spotify,3,No,No,Metal
+0.57612181,1,26,Mid,Spotify,1,Yes,No,Rock
+0.65384626,1,26,Mid,Spotify,1,No,No,Other
+1.0519413,1,26,Mid,Spotify,2,Yes,No,Other
+1.0984672,1,26,Mid,Spotify,1,No,No,Other
+1.0984672,1,26,Mid,YouTube Music,6,Yes,No,Rock
+1.7199533,1,26,Mid,YouTube Music,1,Yes,Yes,Metal
+-1.6137546,0,27,Mid,Spotify,20,Yes,No,Rock
+-0.91099501,0,27,Mid,Spotify,3,Yes,No,Rock
+-0.89513451,0,27,Mid,Spotify,2,Yes,Yes,Pop
+-0.79741287,0,27,Mid,Spotify,10,Yes,Yes,Other
+-0.58298266,1,27,Mid,Other,4,Yes,No,Other
+-0.4397656,1,27,Mid,Spotify,10,Yes,No,Metal
+-0.31425065,1,27,Mid,Spotify,2,No,No,Pop
+-0.1994836,1,27,Mid,Spotify,10,Yes,No,Metal
+-0.056112085,1,27,Mid,Spotify,1,Yes,No,Pop
+-0.01158217,1,27,Mid,Spotify,1.5,Yes,No,Rock
+0.10497203,1,27,Mid,Spotify,1,Yes,No,Pop
+0.11369869,1,27,Mid,Spotify,8,Yes,No,Metal
+0.4377085,1,27,Mid,Spotify,5,Yes,Yes,Other
+0.51017576,1,27,Mid,YouTube Music,3,Yes,No,Pop
+0.80602407,1,27,Mid,Spotify,1,No,No,Other
+1.1912307,1,27,Mid,Spotify,3,Yes,No,Metal
+1.3880929,1,27,Mid,YouTube Music,3,Yes,Yes,Metal
+1.5877726,1,27,Mid,Spotify,3,Yes,No,Metal
+-1.0336924,0,28,Mid,Spotify,6,Yes,No,Rock
+-1.0257621,0,28,Mid,YouTube Music,2,Yes,No,Rock
+-0.6939016,0,28,Mid,Spotify,3,No,Yes,Metal
+-0.57890046,1,28,Mid,Spotify,4,Yes,No,Other
+-0.39781922,1,28,Mid,Do not use,4,Yes,No,Rock
+-0.046041243,1,28,Mid,Other,1,Yes,No,Other
+0.037761401,1,28,Mid,Apple Music,2,Yes,No,Rock
+0.11703891,1,28,Mid,YouTube Music,1,No,No,Rock
+0.33642733,1,28,Mid,Spotify,0.5,No,No,Other
+0.37006482,1,28,Mid,Spotify,8,Yes,No,Rock
+0.40340388,1,28,Mid,Spotify,2,No,Yes,Metal
+1.0889839,1,28,Mid,Do not use,1,Yes,No,Rock
+1.0918015,1,28,Mid,Spotify,1,No,No,Rock
+-1.5777425,0,29,Mid,Spotify,2,Yes,No,Pop
+-1.1753564,0,29,Mid,Other,2,Yes,No,Other
+-1.1704526,0,29,Mid,Spotify,4,No,No,Other
+-0.5052582,1,29,Mid,Spotify,4,Yes,No,Classical
+-0.39872044,1,29,Mid,Do not use,2,Yes,No,Metal
+-0.31143305,1,29,Mid,Apple Music,1.5,Yes,Yes,Rock
+-0.19000027,1,29,Mid,Spotify,8,Yes,No,Other
+-0.024625089,1,29,Mid,Spotify,2,Yes,No,Other
+0.057913005,1,29,Mid,Apple Music,1,No,No,Other
+0.06540031,1,29,Mid,YouTube Music,1,Yes,No,Other
+0.30767834,1,29,Mid,Other,5,Yes,No,Other
+0.43474635,1,29,Mid,Spotify,5,Yes,Yes,Classical
+0.79780531,1,29,Mid,YouTube Music,2,Yes,No,Other
+-1.9376848,0,30,Mid,Do not use,0,No,No,Metal
+-1.818547,0,30,Mid,Spotify,13,,No,Other
+-1.0352454,0,30,Mid,YouTube Music,1,Yes,No,Rock
+-0.97596502,0,30,Mid,Spotify,1,No,No,Rock
+-0.89386994,0,30,Mid,Spotify,8,Yes,Yes,Rock
+-0.65714753,0,30,Mid,Apple Music,3,Yes,No,Other
+-0.59721053,1,30,Mid,Other,1,No,No,Other
+-0.40427604,1,30,Mid,Spotify,5,Yes,No,Metal
+0.19283167,1,30,Mid,Spotify,6,Yes,No,Other
+0.47134599,1,30,Mid,Spotify,1,Yes,No,Other
+0.72008085,1,30,Mid,Spotify,1,No,No,Rock
+-1.6267974,0,31,Mid,Spotify,1,Yes,No,Rock
+-1.0234671,0,31,Mid,Do not use,4,Yes,No,Classical
+-0.87824345,0,31,Mid,Spotify,4,Yes,No,Classical
+-0.87387276,0,31,Mid,Spotify,2,No,No,Rock
+-0.78266245,0,31,Mid,Spotify,2,Yes,No,Metal
+-0.70723307,0,31,Mid,YouTube Music,6,Yes,No,Other
+-0.67174351,0,31,Mid,Spotify,2,Yes,No,Metal
+-0.58298266,1,31,Mid,Spotify,2,No,No,Metal
+-0.30402535,1,31,Mid,Spotify,8,Yes,No,Classical
+-0.1246417,1,31,Mid,Spotify,2,Yes,No,Rock
+0.19869107,1,31,Mid,Spotify,1,No,No,Rock
+0.39532909,1,31,Mid,YouTube Music,9,Yes,No,Pop
+0.87626117,1,31,Mid,YouTube Music,1,No,Yes,Other
+-1.1131787,0,32,Mid,Spotify,7,Yes,No,Pop
+-0.98863983,0,32,Mid,Spotify,5,Yes,No,Rock
+-0.70056731,0,32,Mid,Other,2,Yes,No,Classical
+-0.69419014,0,32,Mid,Spotify,8,Yes,No,Rock
+-0.66091597,0,32,Mid,Spotify,6,Yes,No,Rock
+-0.51830113,1,32,Mid,Spotify,3,Yes,Yes,Rock
+-0.44540083,1,32,Mid,Spotify,1,Yes,No,Metal
+-0.42783278,1,32,Mid,Spotify,12,Yes,Yes,Other
+0.010122499,1,32,Mid,Do not use,1,No,No,Rock
+0.40392646,1,32,Mid,Spotify,2,No,No,Rock
+0.42890221,1,32,Mid,Spotify,2,Yes,No,Metal
+0.51358086,1,32,Mid,Other,1,No,No,Other
+0.69065481,1,32,Mid,Do not use,3,Yes,No,Rock
+0.81439728,1,32,Mid,YouTube Music,2,Yes,No,Other
+0.81513929,1,32,Mid,Apple Music,0.5,No,No,Classical
+0.98309797,1,32,Mid,Spotify,3,Yes,No,Other
+-0.84496933,0,33,Mid,YouTube Music,0.5,Yes,No,Rock
+-0.75613368,0,33,Mid,Spotify,7,Yes,No,Rock
+-0.49140421,1,33,Mid,Apple Music,4,Yes,Yes,Other
+-0.13087437,1,33,Mid,Other,1,No,No,Rock
+0.29145446,1,33,Mid,Spotify,2,Yes,No,Metal
+0.36724719,1,33,Mid,Spotify,2,Yes,No,Metal
+0.43704137,1,33,Mid,Do not use,1,No,No,Metal
+1.1152786,1,33,Mid,Do not use,4,Yes,No,Rock
+-1.1372036,0,34,Mid,Do not use,2,No,No,Other
+-1.1251912,0,34,Mid,YouTube Music,1,No,No,Rock
+-0.91810369,0,34,Mid,YouTube Music,2,No,No,Metal
+-0.003885981,1,34,Mid,Spotify,0,No,No,Rock
+0.13956515,1,34,Mid,Other,4,Yes,No,Metal
+0.53610712,1,34,Mid,Spotify,2,No,No,Metal
+1.5877726,1,34,Mid,Spotify,1,Yes,Yes,Rock
+1.7199533,1,34,Mid,Spotify,3,Yes,No,Classical
+-0.8789854,0,35,Oldest,Spotify,4,Yes,Yes,Other
+-0.80792671,0,35,Oldest,Spotify,4,Yes,Yes,Other
+-0.17398527,1,35,Oldest,Spotify,3,No,No,Other
+-0.006768514,1,35,Oldest,Other,0.5,No,No,Pop
+0.81669235,1,35,Oldest,Spotify,6,Yes,No,Rock
+1.2160519,1,35,Oldest,Spotify,1,Yes,No,Pop
+1.4078015,1,35,Oldest,Spotify,4,No,No,Other
+-0.55223763,1,36,Oldest,Spotify,1,No,Yes,Classical
+-0.34470719,1,36,Oldest,Do not use,8,Yes,Yes,Other
+-0.19384836,1,36,Oldest,Other,1,Yes,No,Other
+-0.18496725,1,36,Oldest,Spotify,6,Yes,No,Metal
+0.33020458,1,36,Oldest,Do not use,2,Yes,Yes,Rock
+0.439859,1,36,Oldest,YouTube Music,1,Yes,No,Rock
+1.5202734,1,36,Oldest,YouTube Music,3,Yes,No,Other
+-1.5950764,0,37,Oldest,Spotify,1,Yes,No,Rock
+-1.2563413,0,37,Oldest,Spotify,2,Yes,No,Rock
+-0.58409274,1,37,Oldest,Spotify,4,Yes,No,Rock
+0.13948554,1,37,Oldest,Spotify,2,Yes,No,Other
+0.42347586,1,37,Oldest,YouTube Music,0.25,No,No,Other
+-0.94403511,0,38,Oldest,Spotify,6,Yes,No,Pop
+-0.74991089,0,38,Oldest,Spotify,3,Yes,No,Rock
+-0.12687181,1,38,Oldest,Spotify,0.5,No,No,Rock
+-0.03537298,1,38,Oldest,Apple Music,1,Yes,No,Other
+0.72630358,1,38,Oldest,Spotify,3,Yes,No,Metal
+1.078236,1,38,Oldest,Spotify,1,No,No,Metal
+0.34991321,1,39,Oldest,Spotify,1,Yes,No,Other
+-0.77036148,0,40,Oldest,Spotify,6,Yes,No,Rock
+0.45401201,1,40,Oldest,Apple Music,2,Yes,No,Metal
+0.7238493,1,40,Oldest,Other,3,Yes,No,Metal
+1.0000687,1,40,Oldest,Other,3,Yes,No,Rock
+1.2638425,1,40,Oldest,Spotify,5,Yes,No,Rock
+-0.92915058,0,41,Oldest,Apple Music,3,Yes,No,Metal
+-0.78110939,0,41,Oldest,Spotify,3,Yes,No,Pop
+0.094512649,1,41,Oldest,Spotify,3,No,No,Metal
+0.15276253,1,41,Oldest,YouTube Music,4,Yes,No,Pop
+-1.0671754,0,42,Oldest,YouTube Music,2.5,Yes,No,Rock
+-0.78540045,0,42,Oldest,Other,0.25,No,No,Classical
+-0.62128985,0,42,Oldest,Spotify,2,Yes,No,Metal
+-0.31817839,1,42,Oldest,YouTube Music,2,No,No,Metal
+-0.14466403,1,42,Oldest,Do not use,0,,No,Rock
+0.54907042,1,42,Oldest,Spotify,2,Yes,No,Rock
+-0.10953783,1,43,Oldest,Do not use,6,Yes,Yes,Other
+0.81950998,1,43,Oldest,Other,1,No,No,Other
+0.98599523,1,43,Oldest,Spotify,1,Yes,No,Pop
+1.2278303,1,43,Oldest,Do not use,0,No,No,Rock
+-1.1410518,0,44,Oldest,Other,3,Yes,No,Other
+-0.74561983,0,44,Oldest,YouTube Music,1.5,No,No,Other
+-0.18718265,1,44,Oldest,Spotify,2,No,No,Rock
+1.6524541,1,46,Oldest,Do not use,1,No,No,Rock
+-0.739905,0,48,Oldest,Spotify,1.5,Yes,No,Metal
+0.98599523,1,48,Oldest,Do not use,5,Yes,Yes,Rock
+-0.37560669,1,49,Oldest,Do not use,8,Yes,Yes,Classical
+-0.37226647,1,49,Oldest,Other,1,Yes,No,Other
+-0.0381906,1,49,Oldest,Spotify,1,No,No,Pop
+0.84433126,1,49,Oldest,YouTube Music,0.5,No,No,Classical
+1.584955,1,49,Oldest,Spotify,2,Yes,No,Other
+1.2474593,1,50,Oldest,Do not use,1,No,No,Rock
+1.2953295,1,51,Oldest,Do not use,5,Yes,No,Rock
+1.0360807,1,53,Oldest,Do not use,1.5,No,No,Pop
+1.5877726,1,53,Oldest,Other,4,Yes,No,Other
+1.7199533,1,53,Oldest,Spotify,7,Yes,Yes,Pop
+0.90901273,1,54,Oldest,Do not use,6,Yes,No,Classical
+1.0889839,1,54,Oldest,YouTube Music,10,Yes,No,Rock
+1.2530946,1,55,Oldest,YouTube Music,15,Yes,Yes,Rock
+-0.42961994,1,56,Oldest,Do not use,1,Yes,No,Pop
+0.18491186,1,56,Oldest,Other,6,Yes,No,Other
+0.40948209,1,56,Oldest,Apple Music,8,Yes,No,Pop
+0.44194514,1,56,Oldest,Do not use,2,Yes,No,Rock
+1.4221089,1,56,Oldest,Other,2,No,No,Other
+-0.19801016,1,57,Oldest,Spotify,2,Yes,No,Other
+0.75815392,1,57,Oldest,YouTube Music,2,Yes,Yes,Rock
+1.4555919,1,57,Oldest,Other,2,No,Yes,Other
+-0.083163485,1,58,Oldest,Other,3,Yes,No,Other
+0.12215155,1,58,Oldest,YouTube Music,1,Yes,No,Rock
+1.5253861,1,58,Oldest,YouTube Music,1,Yes,Yes,Classical
+1.2728032,1,59,Oldest,YouTube Music,2,Yes,No,Pop
+1.5282037,1,59,Oldest,Other,1,No,Yes,Rock
+-0.36588925,1,60,Oldest,Other,2,Yes,No,Rock
+0.16193217,1,60,Oldest,YouTube Music,1,No,Yes,Other
+0.60634428,1,60,Oldest,YouTube Music,2,Yes,No,Rock
+0.76097155,1,60,Oldest,Spotify,1,No,No,Rock
+1.188413,1,60,Oldest,Other,2,Yes,No,Other
+1.7199533,1,60,Oldest,Spotify,2,Yes,No,Rock
+-0.63818085,0,61,Oldest,YouTube Music,2.5,Yes,Yes,Other
+1.0956496,1,61,Oldest,Other,2,Yes,No,Rock
+0.085029311,1,63,Oldest,Spotify,2,Yes,No,Rock
+0.37517747,1,63,Oldest,Other,1.5,Yes,No,Rock
+1.0889839,1,63,Oldest,YouTube Music,8,Yes,No,Rock
+-0.6067735,0,64,Oldest,Other,5,Yes,Yes,Rock
+0.5467754,1,64,Oldest,Do not use,4,Yes,No,Rock
+0.56410939,1,64,Oldest,YouTube Music,2,Yes,No,Classical
+0.64191341,1,65,Oldest,Apple Music,6,Yes,No,Other
+-0.59091294,1,67,Oldest,Other,4,Yes,No,Rock
+0.43756396,1,67,Oldest,Apple Music,2,No,No,Rock
+0.84433126,1,67,Oldest,Do not use,1,No,No,Rock
+-1.401565,0,68,Oldest,Other,1,Yes,No,Other
+1.3403023,1,69,Oldest,Other,4,Yes,Yes,Classical
+-0.36441582,1,70,Oldest,Do not use,2,Yes,No,Other
+1.5877726,1,71,Oldest,Do not use,0.25,Yes,Yes,Other
+1.4883435,1,72,Oldest,Spotify,6,Yes,Yes,Rock
+0.54959303,1,73,Oldest,Other,3,Yes,No,Other
+0.89878744,1,74,Oldest,Do not use,1,No,No,Pop
+-0.26935738,1,80,Oldest,Do not use,3,Yes,No,Classical
+1.7199533,1,89,Oldest,Spotify,24,Yes,Yes,Other
+-0.35906908,1,,Oldest,Spotify,3,Yes,No,Other
