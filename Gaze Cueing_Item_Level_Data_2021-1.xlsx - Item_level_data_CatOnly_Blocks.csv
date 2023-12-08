@@ -1,3 +1,4 @@
+PID,Face_Condition,Block,Trial,Face_image,Target_item,Target_type,Target_colour,Congruency,Attempt,Response,Correct,RT,
 2816545,Photo,1,70,Face_6,item_1_1,Garden,blue,Incongruent,1,h,1,689.825,Face_6
 2816545,Photo,2,104,Face_6,item_1_1,Garden,blue,Incongruent,1,h,1,2170.24,Face_1
 2816545,Photo,3,152,Face_6,item_1_1,Garden,blue,Incongruent,1,h,1,773.55,Face_4
@@ -18041,5 +18042,3 @@
 2817018,Schematic,3,172,Face_37,item_9_2,Garden,green,Congruent,1,h,1,704,
 2817018,Schematic,4,217,Face_37,item_9_2,Garden,green,Congruent,1,h,1,653,
 2817018,Schematic,5,357,Face_37,item_9_2,Garden,green,Congruent,1,h,1,1780,
-PID,Face_Condition,Block,Trial,Face_image,Target_item,Target_type,Target_colour,Congruency,Attempt,Response,Correct,RT,
-PID,Face_Condition,Block,Trial,Face_image,Target_item,Target_type,Target_colour,Congruency,Attempt,Response,Correct,RT,
